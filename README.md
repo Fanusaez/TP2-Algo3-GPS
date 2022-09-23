@@ -4,6 +4,8 @@
 
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA.
 
+Consigna : [[TP2] [2022 1C] - TP2.pdf](https://github.com/Fanusaez/Algoritmos3-Fiuba/files/9634366/TP2.2022.1C.-.TP2.pdf)
+
 ## Grupo {N: 14}
 
 * **Carolina Lucía Mauro: 108294** - [carolinamauro](https://github.com/carolinamauro)
@@ -32,3 +34,4 @@ Aquellos que deseen colaborar con el proyecto pueden consultar la [guía de desa
 ## Licencia
 
 Este repositorio se encuentra bajo la Licencia MIT.
+[[TP2] [2022 1C] - TP2.pdf](https://github.com/Fanusaez/Algoritmos3-Fiuba/files/9634366/TP2.2022.1C.-.TP2.pdf)
