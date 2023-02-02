@@ -36,12 +36,11 @@ Aquellos que deseen colaborar con el proyecto pueden consultar la [guía de desa
 Este repositorio se encuentra bajo la Licencia MIT.
 
 ## Imagenes del Juego
-![Screenshot from 202![Screenshot from 2023-02-02 14-34-12](https://user-images.githubusercontent.com/79915723/216400964-93be34d7-2881-4e57-a066-67632a9f7e12.png)
-3-02-02 14-34-04](https://use
-![Screenshot from 2023-02-02 14-34-23](https://user-images.githubusercontent.com/79915723/216400990-bf71ffaf-af49-4be3-9df7-75aba32efa5c.png)
+(https://user-images.githubusercontent.com/79915723/216400964-93be34d7-2881-4e57-a066-67632a9f7e12.png)
+(https://user-images.githubusercontent.com/79915723/216400990-bf71ffaf-af49-4be3-9df7-75aba32efa5c.png)
 r-images.githubusercontent.com/79915723/216400925-f864655f-152f-494d-bcc7-4b8223524e26.png)
 
-![Screenshot from 2023-02-02 14-34-34](https://user-images.githubusercontent.com/79915723/216401021-60efba6a-0bdf-49f0-8833-1e8ab7fc2d92.png)
+(https://user-images.githubusercontent.com/79915723/216401021-60efba6a-0bdf-49f0-8833-1e8ab7fc2d92.png)
 
 
 
