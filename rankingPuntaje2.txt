@@ -1,5 +1,7 @@
+lloojsojso;0
 Juan;12
 Carolina;13
+Fanu;20
 Azul;20
 Juancito;22
 Josefa;24

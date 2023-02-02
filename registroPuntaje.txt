@@ -1,6 +1,8 @@
+Fanu;20;
 Sofia;27;
 Carolina;13;
 Josefa;24;
 Juan;12;
 Juancito;22;
+lloojsojso;0;
 Azul;20;
