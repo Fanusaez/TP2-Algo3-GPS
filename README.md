@@ -11,7 +11,7 @@ Consigna : [[TP2] [2022 1C] - TP2.pdf](https://github.com/Fanusaez/Algoritmos3-F
 * **Carolina Lucía Mauro: 108294** - [carolinamauro](https://github.com/carolinamauro)
 * **Carolina Luna Aramayo Zambrana: 106260** - [kikiymini](https://github.com/kikiymini)
 * **Brayan Saiago: 104967** - [brayans22](https://github.com/brayans22)
-* **Tobias Emilio Serpa: 108266** - [Saibot19](https://github.com/Saibot19)
+* **Tobias Emilio Serpa: 108266** 
 * **Edgardo Francisco Saez: 104896** - [Fanusaez](https://github.com/Fanusaez)
 * **Corrector:** **{Joaquín Fontela}**
 
